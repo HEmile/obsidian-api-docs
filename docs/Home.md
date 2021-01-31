@@ -1,1 +1,0 @@
-Welcome to the community-provided documentation of the [[Obsidian API]].
