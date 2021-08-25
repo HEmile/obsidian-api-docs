@@ -13,6 +13,8 @@ started.
 
 ![sample-plugin-template](https://raw.githubusercontent.com/HEmile/obsidian-api-docs/main/resources/screenshots/use-this-template.png)
 
+You can find useful resources for creating plugins in [awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian#creating-plugins) repository. 
+
 ## Detailed Topics
 
 The following sections detail specific aspects of writing a plugin for
